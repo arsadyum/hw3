@@ -1,3 +1,5 @@
+this is my cgange####
+
 {
   "db_name": "university_database",
   "tables": {
@@ -6,26 +8,7 @@
       {
         "dcode": "CS",
         "cno": 330,
-        "title": "Formal Methods",
-        "units": 3
-      },
-      {
-        "dcode": "MTH",
-        "cno": 125,
-        "title": "Discrete Mathematics",
-        "units": 3
-      },
-      {
-        "dcode": "CS",
-        "cno": 211,
-        "title": "object-oriented programming",
-        "units": 3
-      }
-    ],
-    "prereq": [
-      {
-        "dcode": "CS",
-        "cno": 330,
+        "title": "Formajsdufokasjdlkfjlk
         "pcode": "CS",
         "pno": 211
       },
